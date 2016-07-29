@@ -134,36 +134,36 @@ if ( ! class_exists( 'BWP_CPT_Widget' ) ) {
          * @param array $instance Current settings.
          */
         public function form( $instance ) {
-            $title      = isset( $instance['title'] ) ? esc_attr( $instance['title'] ) : '';
-            $number     = isset( $instance['number'] ) ? absint( $instance['number'] ) : 5;
-            $show_price = isset( $instance['show_price'] ) ? (bool) $instance['show_price'] : false;
-			$cpt 		= isset( $instance['cpt'] ) ? esc_attr( $instance['cpt'] ) : '';
-			$args_cpt = array(
-			   'public'   => true,
-			   '_builtin' => false
-			);
-
-			$cpts = get_post_types($args_cpt);
-			if (count($cpts)) :
-?>
-			<p><label for="<?php echo $this->get_field_id( 'cpt' ); ?>"><?php _e( 'CPT:', 'bwp-cpt-widget' ); ?></label>
-			<select class="select" id="<?php echo $this->get_field_id( 'cpt' ); ?>" name="<?php echo $this->get_field_name( 'cpt' ); ?>">
-				<option value=""><?php _e('Choice an option...', 'bwp-cpt-widget'); ?></option>
-
-<?php
-			foreach ($cpts as $posttype) {
-				$selected = false;
-				if ($posttype == $cpt)
-					$selected = true;
-?>
-				<option value="<?php echo $posttype; ?>" <?php echo $selected ? "selected" : ""; ?>><?php echo $posttype; ?></option>
-<?php
-			}
-?>
-			</select>
-<?php
-			endif;
-            
+		$title      = isset( $instance['title'] ) ? esc_attr( $instance['title'] ) : '';
+		$number     = isset( $instance['number'] ) ? absint( $instance['number'] ) : 5;
+		$show_price = isset( $instance['show_price'] ) ? (bool) $instance['show_price'] : false;
+		$cpt 		= isset( $instance['cpt'] ) ? esc_attr( $instance['cpt'] ) : '';
+		$args_cpt = array(
+		   'public'   => true,
+		   '_builtin' => false
+		);
+	
+		$cpts = get_post_types($args_cpt);
+		if (count($cpts)) :
+	?>
+		<p><label for="<?php echo $this->get_field_id( 'cpt' ); ?>"><?php _e( 'CPT:', 'bwp-cpt-widget' ); ?></label>
+		<select class="select" id="<?php echo $this->get_field_id( 'cpt' ); ?>" name="<?php echo $this->get_field_name( 'cpt' ); ?>">
+			<option value=""><?php _e('Choice an option...', 'bwp-cpt-widget'); ?></option>
+	
+	<?php
+		foreach ($cpts as $posttype) {
+			$selected = false;
+			if ($posttype == $cpt)
+				$selected = true;
+	?>
+			<option value="<?php echo $posttype; ?>" <?php echo $selected ? "selected" : ""; ?>><?php echo $posttype; ?></option>
+	<?php
+		}
+	?>
+		</select>
+	<?php
+		endif;
+	
     ?>
             <p><label for="<?php echo $this->get_field_id( 'title' ); ?>"><?php _e( 'Title:' ); ?></label>
             <input class="widefat" id="<?php echo $this->get_field_id( 'title' ); ?>" name="<?php echo $this->get_field_name( 'title' ); ?>" type="text" value="<?php echo $title; ?>" /></p>
