@@ -1,0 +1,577 @@
+# Translation of Stable (latest release) in French (France)
+# This file is distributed under the same license as the Stable (latest release) package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Stable (latest release)\n"
+"POT-Creation-Date: 2016-07-27 15:37+0200\n"
+"PO-Revision-Date: 2016-07-27 15:40+0200\n"
+"Last-Translator: \n"
+"Language-Team: Babel-Web <olivier.spadi@babel-web.info>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: bwp-cpt-widget.php:26
+msgid "Custom Post Type Widget"
+msgstr "Widget pour les types d'article personnalisés"
+
+#: bwp-cpt-widget.php:29
+msgid "Display the custom post types in a widget"
+msgstr "Afficher les types d'article personnalisés dans un widget"
+
+#: bwp-cpt-widget.php:61
+msgid "Recent Custom Post Types"
+msgstr "Les types d'article personnalisés récents"
+
+#: bwp-cpt-widget.php:129
+msgid "CPT:"
+msgstr "CPT :"
+
+#: bwp-cpt-widget.php:131
+msgid "Choice an option..."
+msgstr "Choisissez une option..."
+
+#: bwp-cpt-widget.php:147
+msgid "Title:"
+msgstr "Titre :"
+
+#: bwp-cpt-widget.php:150
+msgid "Number of posts to show:"
+msgstr "Nombre d'article à afficher :"
+
+#: bwp-cpt-widget.php:154
+msgid "Display price?"
+msgstr "Afficher le prix ?"
+
+#~ msgid "This will disable/enable Trackbacks on all your current and previously published posts"
+#~ msgstr "Ceci active/désactive les Pisteurs pour tous vos articles publiés présents et passés."
+
+#~ msgid "Trackbacks enabled on all current and previously published posts"
+#~ msgstr "Pisteurs activés pour tous vos articles publiés présents et passés."
+
+#~ msgid "Do not select RED marked items unless you really need to use them"
+#~ msgstr "Ne pas sélectionner les éléments marqués en ROUGE à moins de vraiment avoir besoin de les utiliser."
+
+#~ msgid "comments removed from Trash"
+#~ msgstr "commentaires retirés de la Corbeille"
+
+#~ msgid "KB"
+#~ msgstr "KO"
+
+#~ msgid "MB"
+#~ msgstr "MO"
+
+#~ msgid "Trackbacks disabled on all current and previously published posts"
+#~ msgstr "Pisteurs désactivés pour tous vos articles publiés présents et passés."
+
+#~ msgid "Comments disabled on all current and previously published posts"
+#~ msgstr "Commentaires désactivés pour tous vos articles publiés présents et passés."
+
+#~ msgid "Comments enabled on all current and previously published posts"
+#~ msgstr "Commentaires activés pour tous vos articles publiés présents et passés."
+
+#~ msgid "Optimize your YouTube embedding in WordPress with this plugin"
+#~ msgstr "Optimisez votre intégration YouTube dans WordPress avec cette extension."
+
+#~ msgid "GB"
+#~ msgstr "GO"
+
+#~ msgid "unused comment metadata items removed"
+#~ msgstr "éléments metadata de commentaire inutilisés retirés"
+
+#~ msgid "unused akismet comment metadata items removed"
+#~ msgstr "éléments metadata de commentaire akismet inutilisés retirés"
+
+#~ msgid "GitHub Development Log"
+#~ msgstr "Journal de développement GitHub"
+
+#~ msgid "(Translator name)"
+#~ msgstr "Stéphane Benoit"
+
+#~ msgid "http://(Translator Website)"
+#~ msgstr "http://www.gnosticisme.com"
+
+#~ msgid "Read Translation Instructions"
+#~ msgstr "Lire les Instructions de Traduction"
+
+#~ msgid "Support E-mail"
+#~ msgstr "Courriel d’aide"
+
+#~ msgid "Request New Language"
+#~ msgstr "Demande de Langue Supplémentaire"
+
+#~ msgid "Plugin Translation Portal (needs translator account)"
+#~ msgstr "Portail de Traduction de l’Extension (nécessite un compte de traducteur)"
+
+#~ msgid "Get a Translator Account"
+#~ msgstr "Obtenez un Compte de Traducteur"
+
+#~ msgid "Rating"
+#~ msgstr "Évaluation"
+
+#~ msgid "Please give a proper rating:)"
+#~ msgstr "S.V.P., veuillez évaluer correctement :)"
+
+#~ msgid "Donate!"
+#~ msgstr "Faites un don!"
+
+#~ msgid "Please donate! It really helps me keep improvising"
+#~ msgstr "S.V.P., faites un don! Cela m’aide réellement à poursuivre mon travail."
+
+#~ msgid "Plugin Resources"
+#~ msgstr "Ressources de l’extension"
+
+#~ msgid "Plugin Homepage"
+#~ msgstr "Page d'accueil de l’extension"
+
+#~ msgid "Support (GitHub)"
+#~ msgstr "Forum d’aide (GitHub)"
+
+#~ msgid "Change Log"
+#~ msgstr "Journal des changements"
+
+#~ msgid "FAQ"
+#~ msgstr "FAQ"
+
+#~ msgid "No items"
+#~ msgstr "aucun élément"
+
+#~ msgid "Database Optimized!"
+#~ msgstr "Base de données optimisée!"
+
+#~ msgid "Clean-up options"
+#~ msgstr "Réglages du nettoyage"
+
+#~ msgid "Clean post revisions which are older than "
+#~ msgstr "Enlever les révisions d’article qui datent de plus de "
+
+#~ msgid "weeks"
+#~ msgstr "semaines."
+
+#~ msgid "Clean all post revisions"
+#~ msgstr "Enlever toutes les révisions d’articles."
+
+#~ msgid "Clean auto draft posts which are older than "
+#~ msgstr "Enlever les brouillons automatiques d’articles qui datent de plus de "
+
+#~ msgid "Clean all auto draft posts and posts in trash"
+#~ msgstr "Enlever les brouillons automatiques d’articles et les articles dans la corbeille"
+
+#~ msgid "Remove spam comments which are older than "
+#~ msgstr "Enlever les commentaires indésirables qui datent de plus de "
+
+#~ msgid "Remove spam comments and comments in trash"
+#~ msgstr "Enlever les commentaires indésirables et les commentaires dans la corbeille"
+
+#~ msgid "Remove unapproved comments which are older than "
+#~ msgstr "Enlever les commentaires non-approuvés qui datent de plus de "
+
+#~ msgid "Remove unapproved comments"
+#~ msgstr "Enlever les commentaires non-approuvés."
+
+#~ msgid "Remove transient options"
+#~ msgstr "Enlever les options transitoires."
+
+#~ msgid "Remove pingbacks"
+#~ msgstr "Enlever les pingbacks."
+
+#~ msgid "Remove trackbacks"
+#~ msgstr "Enlever les pisteurs (trackbacks)."
+
+#~ msgid "Actions"
+#~ msgstr "Actions"
+
+#~ msgid "Optimize database tables"
+#~ msgstr "Optimiser les tables de la base de données."
+
+#~ msgid "Note:"
+#~ msgstr "Note :"
+
+#~ msgid "InnoDB tables will not be optimized"
+#~ msgstr "Les tables InnoDB ne seront pas optimisées."
+
+#~ msgid "Select safe options"
+#~ msgstr "Sélectionnez les options sécuritaire"
+
+#~ msgid "Warning:"
+#~ msgstr "Avertissement :"
+
+#~ msgid "Always make a backup of your DB when you upgrade to major versions"
+#~ msgstr "Toujours faire une copie de sauvegarde de votre BDD lorsque vous faites des mises à jour vers des versions importantes."
+
+#~ msgid "PROCESS"
+#~ msgstr "Procéder"
+
+#~ msgid "Status log: "
+#~ msgstr "Journal de l’état actuel :"
+
+#~ msgid "Last automatic optimization was at"
+#~ msgstr "La dernière optimisation automatique était le"
+
+#~ msgid "There was no automatic optimization"
+#~ msgstr "Aucune optimisation automatique n’est programmée"
+
+#~ msgid "Check settings"
+#~ msgstr "Vérifier les réglages"
+
+#~ msgid "Scheduled cleaning enabled"
+#~ msgstr "Nettoyage programmé activé"
+
+#~ msgid "Next schedule"
+#~ msgstr "prochain nettoyage"
+
+#~ msgid "Refresh"
+#~ msgstr "Rafraichir"
+
+#~ msgid "Scheduled cleaning disabled"
+#~ msgstr "Nettoyage planifié désactivé"
+
+#~ msgid "Keeping last "
+#~ msgstr "Conserver le dernier"
+
+#~ msgid "weeks data"
+#~ msgstr "semaines de données."
+
+#~ msgid "Not keeping recent data"
+#~ msgstr "Ne conserve pas les données récentes"
+
+#~ msgid "Current database size : "
+#~ msgstr "Taille actuelle de la base de données : "
+
+#~ msgid "You have saved"
+#~ msgstr "Vous avez gagné"
+
+#~ msgid "Current database size"
+#~ msgstr "Taille actuelle de la base de données"
+
+#~ msgid "You can save almost"
+#~ msgstr "Vous pouvez gagner presque"
+
+#~ msgid "Total clean up overall"
+#~ msgstr "Somme totale des nettoyages "
+
+#~ msgid "Sponsor"
+#~ msgstr "Parrainez"
+
+#~ msgid "Settings updated"
+#~ msgstr "Réglages mis à jour"
+
+#~ msgid "General Settings"
+#~ msgstr "Réglages généraux"
+
+#~ msgid "Keep last "
+#~ msgstr "Conserver les dernières "
+
+#~ msgid "This option will retain the last selected weeks data and remove any garbage data before that period. This will also affect Auto Clean-up process"
+#~ msgstr "Cette option va conserver les données des dernières semaines sélectionnées, et supprimer toute donnée inutile d’avant cette période."
+
+#~ msgid "Enable admin bar link "
+#~ msgstr "Activer le lien de la barre du Tableau de bord "
+
+#~ msgid "(Click here to refresh)"
+#~ msgstr "(cliquez ici pour actualiser)"
+
+#~ msgid "This option will put WP-Optimize link on the top admin bar (default is off). Requires page refresh."
+#~ msgstr "Cette option affichera le lien WP-Optimize dans la barre supérieure du Tableau de bord (désactivée par défaut). Nécessite l’actualisation de la page."
+
+#~ msgid "SAVE SETTINGS"
+#~ msgstr "Sauvegarder vos réglages"
+
+#~ msgid "Auto Clean-up Settings"
+#~ msgstr "Réglages du nettoyage automatique"
+
+#~ msgid "Enable scheduled clean-up and optimization (Beta feature!)"
+#~ msgstr "Activer le nettoyage planifié et l’optimisation (Option beta!)"
+
+#~ msgid "Select schedule type (default is Weekly)"
+#~ msgstr "Choisir le type de programmation (hebdomadaire par défaut)"
+
+#~ msgid "Every week"
+#~ msgstr "Hebdomadaire"
+
+#~ msgid "Every other week (every 14 days)"
+#~ msgstr "Chaque 2 semaines (chaque 14 jours)"
+
+#~ msgid "Every month (every 31 days)"
+#~ msgstr "Mensuel (chaque 31 jours)"
+
+#~ msgid "Automatic cleanup will perform the following:"
+#~ msgstr "Le nettoyage automatique procèdera aux tâches suivantes :"
+
+#~ msgid "Remove revisions, auto drafts, posts/comments in trash, transient options. After that it will optimize the db."
+#~ msgstr "Enlever les révisions, les brouillons automatiques, les articles et les commentaires dans la corbeille, les options transitoires. Après cela, la base de données sera optimisée."
+
+#~ msgid "These options will only work if the automatic clean-up schedule has been enabled"
+#~ msgstr "Ces options ne fonctionneront que si la programmation du nettoyage automatique a été activée."
+
+#~ msgid "Remove auto revisions"
+#~ msgstr "Enlever les révisions automatiques."
+
+#~ msgid "Remove auto drafts"
+#~ msgstr "Enlever les brouillons automatiques."
+
+#~ msgid "Remove spam comments"
+#~ msgstr "Enlever les commentaires indésirables."
+
+#~ msgid "Remove orphaned post meta"
+#~ msgstr "Enlever les métadonnées d’article (postmeta) orphelin."
+
+#~ msgid "Remove unused tags"
+#~ msgstr "Enlever les mots-clés inutilisés."
+
+#~ msgid "Optimize database"
+#~ msgstr "Optimiser la base de données."
+
+#~ msgid "If you have InnoDB tables. They will not be optimized!"
+#~ msgstr "Si vous avez des tables InnoDB. Elles ne seront pas optimisées!"
+
+#~ msgid "SAVE AUTO CLEAN-UP SETTINGS"
+#~ msgstr "Sauvegarder vos réglages de nettoyage automatique"
+
+#~ msgid "Database Name:"
+#~ msgstr "Nom de la base de données :"
+
+#~ msgid "Optimized all the tables found in the database."
+#~ msgstr "Toutes les tables de la base de données ont été optimisées."
+
+#~ msgid "No."
+#~ msgstr "No."
+
+#~ msgid "Records"
+#~ msgstr "Archives"
+
+#~ msgid "Data Size"
+#~ msgstr "Taille des données"
+
+#~ msgid "Index Size"
+#~ msgstr "Taille de l’index"
+
+#~ msgid "Type"
+#~ msgstr "Type"
+
+#~ msgid "Overhead"
+#~ msgstr "Résultat"
+
+#~ msgid "Total:"
+#~ msgstr "Totale :"
+
+#~ msgid "%s Table"
+#~ msgid_plural "%s Tables"
+#~ msgstr[0] "%s Table"
+#~ msgstr[1] "%s Tables"
+
+#~ msgid "%s Record"
+#~ msgid_plural "%s Records"
+#~ msgstr[0] "%s Record"
+#~ msgstr[1] "%s Records"
+
+#~ msgid "Total Size of Database"
+#~ msgstr "Taille totale de la base de données "
+
+#~ msgid "Optimization Results"
+#~ msgstr "Résultats de l'optimisation :"
+
+#~ msgid "Total Space Saved"
+#~ msgstr "Espace total gagné "
+
+#~ msgid "Optimization Possibility"
+#~ msgstr "Optimisation possible "
+
+#~ msgid "Total space can be saved"
+#~ msgstr "Espace total pouvant être gagné "
+
+#~ msgid "WP-Optimize"
+#~ msgstr "WP-Optimize"
+
+#~ msgid "This plugin helps you to keep your database clean by removing post revisions and spams in a blaze. Additionally it allows you to run optimize command on your WordPress core tables (use with caution)."
+#~ msgstr "Cette extension vous aide à garder votre base de données propre en éliminant les révisions d’article et les pourriels en un éclair. De plus, cela vous permet d’effectuer une commande d'optimisation sur vos tables principales de WordPress (utilisez avec prudence)."
+
+#~ msgid "Ruhani Rabin"
+#~ msgstr "Ruhani Rabin"
+
+#~ msgid "https://github.com/ruhanirabin/WP-Optimize"
+#~ msgstr "https://github.com/ruhanirabin/WP-Optimize"
+
+#~ msgid "Optimizer"
+#~ msgstr "Optimiseur"
+
+#~ msgid "MYSQL"
+#~ msgstr "MYSQL"
+
+#~ msgid "Settings"
+#~ msgstr "Réglages"
+
+#~ msgid "Info"
+#~ msgstr "Renseignement"
+
+#~ msgid "Tables"
+#~ msgstr "Tables"
+
+#~ msgid "bytes"
+#~ msgstr "octets"
+
+#~ msgid "transient options deleted"
+#~ msgstr "options transitoires supprimées."
+
+#~ msgid "post revisions deleted"
+#~ msgstr "révisions d'articles effacés."
+
+#~ msgid "auto drafts deleted"
+#~ msgstr "brouillons automatiques supprimés."
+
+#~ msgid "items removed from Trash"
+#~ msgstr "articles retirés de la corbeille."
+
+#~ msgid "spam comments deleted"
+#~ msgstr "commentaires indésirables effacés."
+
+#~ msgid "unapproved comments deleted"
+#~ msgstr "commentaires non-approuvés effacés."
+
+#~ msgid "pingbacks deleted"
+#~ msgstr "pingbacks supprimés."
+
+#~ msgid "trackbacks deleted"
+#~ msgstr "pisteurs supprimés."
+
+#~ msgid "Enabled weekly processing"
+#~ msgstr "Nettoyage hebdomadaire activé"
+
+#~ msgid "Disabled weekly processing"
+#~ msgstr "Nettoyage hebdomadaire désactivé"
+
+#~ msgid "NO Actions Taken"
+#~ msgstr "AUCUNE action prise."
+
+#~ msgid "transient options in your database"
+#~ msgstr "  options transitoires dans votre base de données."
+
+#~ msgid "No transient options found"
+#~ msgstr "  Aucune option transitoire trouvée."
+
+#~ msgid "orphaned postmeta in your database"
+#~ msgstr "  métadonnées d’article (postmeta) orphelin dans votre base de données."
+
+#~ msgid "No orphaned postmeta in your database"
+#~ msgstr "  Aucune métadonnée d’article (postmeta) dans votre base de données."
+
+#~ msgid "unused tags in your database"
+#~ msgstr "  mots-clés inutilisés dans votre base de données."
+
+#~ msgid "No unused tags found"
+#~ msgstr "  Aucun mot-clé inutilisé trouvé."
+
+#~ msgid "post revisions in your database"
+#~ msgstr "  révisions d'articles dans votre base de données."
+
+#~ msgid "No post revisions found"
+#~ msgstr "  Aucune révision d'article trouvé."
+
+#~ msgid "auto draft post(s) in your database"
+#~ msgstr "  brouillon(s) auto dans votre base de données."
+
+#~ msgid "No auto draft posts found"
+#~ msgstr "  Aucun brouillon automatique trouvé."
+
+#~ msgid "spam comments found"
+#~ msgstr "  commentaires indésirables trouvés."
+
+#~ msgid "Review"
+#~ msgstr "Vérifiez"
+
+#~ msgid "No spam comments found"
+#~ msgstr "  Aucun commentaire indésirable trouvé."
+
+#~ msgid "unapproved comments found"
+#~ msgstr "  commentaires non-approuvés trouvés."
+
+#~ msgid "No unapproved comments found"
+#~ msgstr "  Aucun commentaire non-approuvé trouvé."
+
+#~ msgid "Pingbacks found"
+#~ msgstr "  Pingbacks trouvés."
+
+#~ msgid "No pingbacks found"
+#~ msgstr "  Aucun pingback trouvé."
+
+#~ msgid "Trackbacks found"
+#~ msgstr "  Pisteurs trouvés."
+
+#~ msgid "No trackbacks found"
+#~ msgstr "  Aucun pisteurs trouvé."
+
+#~ msgid "nothing"
+#~ msgstr "rien"
+
+#~ msgid "Credits"
+#~ msgstr "Crédits"
+
+#~ msgid "WP-Optimize started as a utility for my own projects. I have realized soon, that this plugin might help a lot of people out there. I am personally thanking all of the users who use this plugin as a daily basis. Also thank you all of the translators and the generous people who have donated for this project."
+#~ msgstr "WP-Optimize a débuté comme un utilitaire pour mes propres projets. J’ai cependant vite réalisé que cette extension pourrait aider beaucoup de gens. Je remercie personnellement tous les utilisateurs qui utilisent cette extension quotidiennement. Je remercie également tous les traducteurs et les généreux donateurs qui ont donné pour ce projet."
+
+#~ msgid "Contributing Developers"
+#~ msgstr "Développeurs contributeurs"
+
+#~ msgid "Help me make this plugin better"
+#~ msgstr "Aidez-moi à améliorer cette extension"
+
+#~ msgid "I am looking for contributing developers."
+#~ msgstr "je suis à la recherche de développeurs disposés à contribuer."
+
+#~ msgid "Your name and website will be credited here in the plugin"
+#~ msgstr "Votre nom et votre site web seront affichés ici dans l’extension"
+
+#~ msgid "Translators"
+#~ msgstr "Traducteurs"
+
+#~ msgid "Automatic Operation Completed"
+#~ msgstr "Opération programmée effectuée"
+
+#~ msgid "Scheduled optimization was executed at"
+#~ msgstr "L'opération planifiée a eu lieu à"
+
+#~ msgid "SELECT"
+#~ msgstr "SELECT"
+
+#~ msgid "Disable"
+#~ msgstr "Désactiver"
+
+#~ msgid "Enable"
+#~ msgstr "Activer"
+
+#~ msgid "Disable/Enable Comments"
+#~ msgstr "Désactiver / Activer les commentaires"
+
+#~ msgid "Everyday"
+#~ msgstr "Tous les jours"
+
+#~ msgid "http://wp-optimize.ruhanirabin.com/"
+#~ msgstr "http://wp-optimize.ruhanirabin.com/"
+
+#~ msgid "Trackback/Comments Actions"
+#~ msgstr "Actions Rétroliens / Commentaires"
+
+#~ msgid "Disable/Enable Trackbacks"
+#~ msgstr "Activer / Désactiver les rétroliens"
+
+#~ msgid "You can safely delete this email."
+#~ msgstr "Vous pouvez supprimer cet e-mail sans problème."
+
+#~ msgid "Regards,"
+#~ msgstr "Cordialement,"
+
+#~ msgid "WP-Optimize Plugin"
+#~ msgstr "L&rsquo;extension WP-Optimize"
+
+#~ msgid "Enable email notification"
+#~ msgstr "Activer les notifications par e-mail"
+
+#~ msgid "Send email to"
+#~ msgstr "Envoyer le message à"
